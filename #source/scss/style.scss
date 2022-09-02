@@ -177,7 +177,7 @@ body{
 
 	&__sub-title {
 		color: #737373;
-		
+		font-weight: 500;
 		line-height: 142%;
 	}
 }
@@ -535,6 +535,12 @@ body{
 		flex: 1 1 auto;
 	}
 }
+
+.wwa__body{
+	display: flex;
+	
+}
+
 
 
 .footer{
